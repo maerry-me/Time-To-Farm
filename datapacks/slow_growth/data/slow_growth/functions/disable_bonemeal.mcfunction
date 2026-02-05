@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:bone_meal"}}] at @s run kill @s
